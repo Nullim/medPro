@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Administration_Form</members>
+        <name>GlobalValueSet</name>
+    </types>
+    <types>
+        <members>Medicine__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Medicine__c.Administration_Form__c</members>
+        <members>Medicine__c.Dosage_Form__c</members>
+        <members>Medicine__c.Dose__c</members>
+        <members>Medicine__c.Expiration_Date__c</members>
+        <members>Medicine__c.Price__c</members>
+        <members>Medicine__c.Quantity__c</members>
+        <members>Medicine__c.Units__c</members>
+        <name>CustomField</name>
+    </types>
+    <version>59.0</version>
+</Package>
